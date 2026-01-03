@@ -1,0 +1,1 @@
+const util_ninz = (d: any) => d;
